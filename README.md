@@ -1,4 +1,4 @@
-<p align='center'><img height='400' src = '[https://user-images.githubusercontent.com/31500911/143410521-b2653b16-0ee9-46e7-9c5c-7a8b2262a3d1.png](https://github.com/kartikdangi/Movie-Recommender-System/blob/main/src/Movie-Poster-Cliches-7.jpg)'></p>
+<p align='center'><img height='400' src = 'https://user-images.githubusercontent.com/31500911/143410521-b2653b16-0ee9-46e7-9c5c-7a8b2262a3d1.png'></p>
 <br>
 <h1 align='center'>Model deploy using Streamlit on Heroku Platform</h1>
 <h2 align='center'>[https://movierecommendersystem12.herokuapp.com/](https://movierecommendersystem12.herokuapp.com/)</h2>
