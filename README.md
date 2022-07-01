@@ -1,7 +1,7 @@
 <p align='center'><img height='400' src = 'https://github.com/kartikdangi/Movie-Recommender-System/blob/main/src/Movie-Poster-Cliches-7.jpg'></p>
 <br>
 <h1 align='center'>Model deploy using Streamlit on Heroku Platform</h1>
-<h2 align='center'>[https://movierecommendersystem12.herokuapp.com](https://movierecommendersystem12.herokuapp.com/)</h2>
+<h2 align='center'>[Link](https://movierecommendersystem12.herokuapp.com/)</h2>
 <br>
 <p>In this project I have built a content based movie recommender system. The algorithm recommends products that are similar to the ones that a user has liked in the past. This similarity (generally cosine similarity) is computed from the data we have about the items as well as the user’s past preferences. </p>
 <br>
