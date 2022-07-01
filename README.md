@@ -37,3 +37,11 @@ It is a numerical value ranges between zero to one which helps to determine how 
 <h2>Sources of the datasets : </h2>
 <p>I have used the TMDB 5000 movies dataset to build the model</p>
 <p>You can collect dataset from https://www.kaggle.com/tmdb/tmdb-movie-metadata</p>
+
+### List of other dataset
+
+* MovieLens - Movie Recommendation Data Sets [link](https://grouplens.org/datasets/movielens/)
+* Netflix Prize Dataset [link](http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a)
+* Yahoo! - Movie, Music, and Images Ratings Data Sets [link](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
+* Cornell University - Movie-review data for use in sentiment-analysis experiments [link](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+* MovieTweetings - [link](https://github.com/sidooms/MovieTweetings)
